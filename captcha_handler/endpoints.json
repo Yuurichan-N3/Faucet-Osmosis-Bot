@@ -1,0 +1,4 @@
+{
+  "init": "http://2captcha.com/in.php",
+  "poll": "http://2captcha.com/res.php"
+}
